@@ -1,4 +1,3 @@
-# Amplificator-Audio
 # Proiectare Amplificator Audio - CAD 2025
 
 Acest depozit conține documentația și etapele de proiectare pentru un **amplificator audio de putere**, realizat în cadrul disciplinei Proiectare Asistată de Calculator (CAD) la facultatea ETTI, UTCN.
