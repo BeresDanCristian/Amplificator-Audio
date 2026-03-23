@@ -13,7 +13,7 @@ Proiectul vizează implementarea unui sistem audio complet, având următoarele 
 * **Alimentare:** Diferențială, de $\pm18V$.
 
 ## 🛠️ Metodologie de Proiectare
-1.  **Schema Electrică:** Realizată în mediul **OrCAD / PSpice**.
+1.  **Schema Electrică:** Realizată în mediul **OrCAD**.
 2.  **Breviar de Calcul:** Dimensionarea riguroasă a componentelor passive ($R, C$) și alegerea punctelor de funcționare pentru tranzistoare.
 3.  **Analiză și Simulare:**
     * **Analiza în Frecvență (AC Sweep):** Verificarea benzii audio.
